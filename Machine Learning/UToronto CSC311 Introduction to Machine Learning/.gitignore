@@ -1,0 +1,8 @@
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+.vscode/
+!.vscode/settings.json
+
