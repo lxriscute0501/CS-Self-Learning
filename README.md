@@ -1,2 +1,2 @@
 # CS-Self-Learning
-CS self-learning notes, containing different colleges CS courses, mainly from USA
+CS self-learning notes, containing CS courses of different colleges, mainly from UCB, MIT, Stanford, CMU.
