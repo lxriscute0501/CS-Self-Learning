@@ -1,8 +1,67 @@
+# ======================
+# macOS 系统文件
+# ======================
 .DS_Store
-._*
-.Spotlight-V100
-.Trashes
+.AppleDouble
+.LSOverride
 
-.vscode/
-!.vscode/settings.json
+# ======================
+# PyCharm / JetBrains IDE 配置
+# ======================
+.idea/
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
 
+# ======================
+# Python 缓存和编译文件
+# ======================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ======================
+# 虚拟环境目录（常见命名）
+# ======================
+venv/
+env/
+.venv/
+.env/
+
+# ======================
+# 构建输出与安装缓存
+# ======================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+*.whl
+*.manifest
+*.spec
+
+# ======================
+# 日志、数据库和临时文件
+# ======================
+*.log
+*.sqlite3
+*.db
+*.tmp
+*.bak
+*.swp
+
+# ======================
+# Jupyter Notebook 缓存（如有使用）
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# 测试、覆盖率工具缓存
+# ======================
+.coverage
+.cache/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
